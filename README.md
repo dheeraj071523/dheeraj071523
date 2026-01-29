@@ -86,12 +86,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=dheeraj071523&show_icons=true&theme=tokyonight)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj071523&layout=compact&theme=tokyonight)
-
----
 
 ## 🏆 Achievements
 
